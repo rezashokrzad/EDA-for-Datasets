@@ -1,10 +1,10 @@
 # EDA-for-Datasets
 
-🔍 Discover the Stories Hidden in Data 🔍 
+**🔍 Discover the Stories Hidden in Data 🔍 **
 
 This repository is a vibrant collection of exploratory data analyses (EDAs) where we dive into different basic datasets to uncover patterns, trends, and insights. Each dataset chosen is a stepping stone to practicing and mastering data analysis techniques, perfect for learners and seasoned analysts alike.
 
-What You'll Find Here
+**What You'll Find Here**
 
 * Diverse Datasets: From social media metrics to environmental data, explore datasets across various domains.
   
@@ -26,6 +26,6 @@ What You'll Find Here
 
 Whether you're a data science enthusiast, a student starting your data journey, or a professional honing your skills, this repository is for you. Let's explore the data, learn continuously, and share our knowledge with the world!
 
-Stay Updated
+**Stay Updated**
 
 Follow this repo to stay updated with new analyses and datasets. Let's decode the complexities of data together!
